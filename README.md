@@ -4,3 +4,4 @@ talis chatabout is a p2p groupchat that allows members to provide relatable info
 
 ![chat_window](./chat.png)
 
+![arch](./arch.png)
