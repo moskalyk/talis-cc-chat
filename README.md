@@ -18,7 +18,7 @@ talis / chatabout is a p2p groupchat that allows members to provide relatable in
 currently the application runs using aqua (compiled AIR script) and javascript to allow there to be a bridge between a fluence peerId instance and an urbit ship hosted on a platform, like third.earth, sending HTTPS requests via pokes which present a heads up feed of who's playing in chatabout.
 
 # 🦠 stack
-fluence \ urbit 
+ɸ fluence ~ urbit 
 
 # ↟ some futures
 ♲  Requires at least 1 mod to moderate conversation up to 14 folks, logs in via +code, can shutdown on prompt
